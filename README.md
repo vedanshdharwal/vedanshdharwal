@@ -67,13 +67,21 @@ Over time I have worked on these technologies :
 ### Connect with me on linkedin:  
 [<img align="left" alt="Vedansh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Vedansh | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
-[<img align="left" alt="Vedansh | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][email]
+[<img align="left" alt="Vedansh | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][email]  
+
 
 [linkedin]: https://linkedin.com/in/vedanshdharwal  
 [github]: https://github.com/vedanshdharwal
-[email]: mailto:vedansh.dharwal@gmail.com
+[email]: mailto:vedansh.dharwal@gmail.com  
 
-
+<br />
+<br />
 <!--
 I strongly believe that every accomplishment starts with the decision to try, So I keep exploring and keep practicing with a new project to become the best version of myself!
 -->
+
+
+<!--Badges-->  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vedanshdharwal&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
