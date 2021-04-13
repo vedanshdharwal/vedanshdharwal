@@ -21,8 +21,8 @@ Welcome, following is a summary of me and my interests.
 I am a Computer Engineering student graduating in 2021, 
 Along with academics, I am passionate about *Full Stack Development* and have been doing it since the first year of engineering.
 
-I consider myself a skilled programmer with a good grasp of Data structures and algorithms.  
 In my bachelor's, I have maintained an overall GPA of **9.08**.  
+I consider myself a skilled programmer with a good grasp of Data structures and algorithms.  
 I have a strong understanding of subjects like Operating Systems, Object-Oriented Programming, Computer Networks and Database Systems.
 
 I've worked on a variety of technology and I keep exploring the new ones.
@@ -64,7 +64,7 @@ Over time I have worked on these technologies :
 <br />
 <br />
 
-### Connect with me on linkedin:  
+### Connect with me :  
 [<img align="left" alt="Vedansh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Vedansh | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
 [<img align="left" alt="Vedansh | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][email]  
