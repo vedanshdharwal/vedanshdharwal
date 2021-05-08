@@ -21,7 +21,7 @@ Welcome, following is a summary of me and my interests.
 I am a Computer Engineering student graduating in 2021, 
 Along with academics, I am passionate about *Full Stack Development* and have been doing it since the first year of engineering.
 
-In my bachelor's, I have maintained an overall GPA of **9.08**.  
+In my bachelor's, I have maintained an overall CGPA of **9.24**.  
 I consider myself a skilled programmer with a good grasp of Data structures and algorithms.  
 I have a strong understanding of subjects like Operating Systems, Object-Oriented Programming, Computer Networks and Database Systems.
 
@@ -30,7 +30,7 @@ Moreover, I have been doing competitive coding for 2 years.
 
 Over time I have worked on these technologies :  
   • **Programming languages** - Python, JAVA, JavaScript, C++  
-  • **Web Technologies** - React.js, Node.js, Django, HTML CSS, Web APIs  
+  • **Web Technologies** - React.js, Node.js, Django, HTML CSS, REST APIs  
   • **Databases** - MYSQL, Oracle, Google Firebase  
   • **Other** - Git, Salesforce  
 
