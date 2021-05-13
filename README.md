@@ -88,7 +88,6 @@ I strongly believe that every accomplishment starts with the decision to try, So
 -->
 
 
-<!--Badges-->  
-
+<!--Badges
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vedanshdharwal&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+-->  
