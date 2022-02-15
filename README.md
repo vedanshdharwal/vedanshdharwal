@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 <!--
 Welcome, following is a summary of me and my interests.
 -->
-I am a Computer Engineering student graduating in 2021, 
+I am a Computer Engineering student graduated in 2021, currently working as a **Member of Technical Staff** at **Vymo** 
 Along with academics, I am passionate about *Full Stack Development* and have been doing it since the first year of engineering.
 
-In my bachelor's, I have maintained an overall CGPA of **9.24**.  
+In my bachelor's, I have maintained an overall CGPA of **9**.  
 I consider myself a skilled programmer with a good grasp of Data structures and algorithms.  
 I have a strong understanding of subjects like Operating Systems, Object-Oriented Programming, Computer Networks and Database Systems.
 
