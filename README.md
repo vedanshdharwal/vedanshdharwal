@@ -18,21 +18,14 @@ Here are some ideas to get you started:
 <!--
 Welcome, following is a summary of me and my interests.
 -->
-I am a Computer Engineering student graduated in 2021, currently working as a **Software Development Engineer** at **Amazon** 
-Along with academics, I am passionate about *Full Stack Development* and have been doing it since my first year of engineering.
-
-In my bachelor's, I have maintained an overall CGPA of **9**.  
-I consider myself a skilled programmer with a good grasp of Data structures and algorithms.  
-I have a strong understanding of subjects like Operating Systems, Object-Oriented Programming, Computer Networks, and Database Systems.
-
-I've worked on a variety of technology and I keep exploring new ones.
-Moreover, I have been doing competitive coding for 2 years.
+With around 3 years of professional experience, I am a **Software Development Engineer** at **Amazon**, specializing in optimizing data processing efficiency and query performance. Graduating from the Institute of Engineering and Technology, Indore, with a CGPA of 9.0 in Computer Engineering, I bring a strong academic foundation to my work. I possess a diverse skill set and am proficient in AWS services such as S3, EMR, Glue, and Lambda, alongside programming languages like Python, Java, Scala, and JavaScript. My expertise extends to web technologies including React, Node.js, and Django, as well as database management systems like MySQL, Firebase, and Oracle.
 
 Over time I have worked on these technologies :  
-  • **Programming languages** - Python, JAVA, Scala, JavaScript, C++  
+  • **Programming languages** - Python, Java, Scala, JavaScript  
   • **Web Technologies** - React.js, Node.js, Django, HTML CSS, REST APIs  
   • **Databases** - MYSQL, MongoDB, Oracle, Google Firebase  
   • **Other** - Git, AWS, Salesforce  
+  • **Relevant Coursework** - Algorithms and Data Structures, Database Management Systems, Computer Organization and Architecture, Computer Networks, Operating Systems
 
 <!--
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -66,15 +59,15 @@ Over time I have worked on these technologies :
 
 
 ### Connect with me :  
-<!--
+
 [<img align="left" alt="Vedansh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Vedansh | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
 [<img align="left" alt="Vedansh | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][email]  
--->
+<!--
 [<img align="left" alt="Vedansh | LinkedIn" width="30px" src="https://github.com/gilbarbara/logos/blob/master/logos/linkedin-icon.svg" />][linkedin]
 [<img align="left" alt="Vedansh | Github" width="30px" src="https://github.com/gilbarbara/logos/blob/master/logos/github-icon.svg" />][github]
 [<img align="left" alt="Vedansh | Email" width="30px" src="https://github.com/gilbarbara/logos/blob/master/logos/google-gmail.svg" />][email]  
-
+-->
 
 
 [linkedin]: https://linkedin.com/in/vedanshdharwal  
