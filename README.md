@@ -18,21 +18,21 @@ Here are some ideas to get you started:
 <!--
 Welcome, following is a summary of me and my interests.
 -->
-I am a Computer Engineering student graduated in 2021, currently working as a **Member of Technical Staff** at **Vymo** 
-Along with academics, I am passionate about *Full Stack Development* and have been doing it since the first year of engineering.
+I am a Computer Engineering student graduated in 2021, currently working as a **Software Development Engineer** at **Amazon** 
+Along with academics, I am passionate about *Full Stack Development* and have been doing it since my first year of engineering.
 
 In my bachelor's, I have maintained an overall CGPA of **9**.  
 I consider myself a skilled programmer with a good grasp of Data structures and algorithms.  
-I have a strong understanding of subjects like Operating Systems, Object-Oriented Programming, Computer Networks and Database Systems.
+I have a strong understanding of subjects like Operating Systems, Object-Oriented Programming, Computer Networks, and Database Systems.
 
-I've worked on a variety of technology and I keep exploring the new ones.
+I've worked on a variety of technology and I keep exploring new ones.
 Moreover, I have been doing competitive coding for 2 years.
 
 Over time I have worked on these technologies :  
-  • **Programming languages** - Python, JAVA, JavaScript, C++  
+  • **Programming languages** - Python, JAVA, Scala, JavaScript, C++  
   • **Web Technologies** - React.js, Node.js, Django, HTML CSS, REST APIs  
-  • **Databases** - MYSQL, Oracle, Google Firebase  
-  • **Other** - Git, Salesforce  
+  • **Databases** - MYSQL, MongoDB, Oracle, Google Firebase  
+  • **Other** - Git, AWS, Salesforce  
 
 <!--
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
