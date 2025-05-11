@@ -62,17 +62,21 @@ Over time I have worked on these technologies :
 
 [<img align="left" alt="Vedansh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Vedansh | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
-[<img align="left" alt="Vedansh | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][email]  
+[<img align="left" alt="Vedansh | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][email]
+[<img align="left" alt="Vedansh | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/leetcode.svg" />][leetcode]  
+
 <!--
 [<img align="left" alt="Vedansh | LinkedIn" width="30px" src="https://github.com/gilbarbara/logos/blob/master/logos/linkedin-icon.svg" />][linkedin]
 [<img align="left" alt="Vedansh | Github" width="30px" src="https://github.com/gilbarbara/logos/blob/master/logos/github-icon.svg" />][github]
 [<img align="left" alt="Vedansh | Email" width="30px" src="https://github.com/gilbarbara/logos/blob/master/logos/google-gmail.svg" />][email]  
+[<img align="left" alt="Vedansh | Leetcode" width="30px" src="https://www.svgrepo.com/svg/341985/leetcode" />][leetcode]  
 -->
 
 
 [linkedin]: https://linkedin.com/in/vedanshdharwal  
 [github]: https://github.com/vedanshdharwal
-[email]: mailto:vedansh.dharwal@gmail.com  
+[email]: mailto:vedansh.dharwal@gmail.com
+[leetcode]: https://leetcode.com/u/vedanshdharwal
 
 <br />
 <br />
